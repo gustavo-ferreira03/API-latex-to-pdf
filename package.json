@@ -11,5 +11,8 @@
     "node-latexmk": "0.1.5",
     "nodemon": "2.0.19",
     "temp": "0.9.4"
-  }
+  },
+  "scripts": {
+    "start": "index.js"
+}
 }
