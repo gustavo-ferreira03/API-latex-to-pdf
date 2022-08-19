@@ -1,0 +1,15 @@
+{
+  "name": "converted",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudconvert": "2.3.0",
+    "cors": "2.8.5",
+    "express": "4.18.1",
+    "node-latexmk": "0.1.5",
+    "nodemon": "2.0.19",
+    "temp": "0.9.4"
+  }
+}
